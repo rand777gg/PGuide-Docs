@@ -2,59 +2,46 @@
 
 # 🌱 项导文档 — 专注项目驱动的知识沉淀与协作
 
-> 🚧 项导文档 2.0 正在积极更新中，敬请期待！
-
 简体中文 | [English](https://github.com/PGuideDev/PGuide-Docs/blob/master/README-EN.md)
 
 [![VuePress](https://img.shields.io/badge/-VuePress-%2342b883?logo=vue.js&logoColor=white)](https://vuepress.vuejs.org/)
 [![GitHub License](https://img.shields.io/github/license/PGuideDev/PGuide-Docs)](https://github.com/PGuideDev/PGuide-Docs/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)](https://github.com/PGuideDev/PGuide-Docs/pulls)
 
-[![项导文档封面图](docs/.vuepress/public/src/pguide-doc.png)](https://docs.pguide.cloud/)
+[![ 项导文档封面图](docs/.vuepress/public/src/pguide-doc.png)](https://docs.pguide.cloud/)
 
-**分享想法，用项目构筑梦想。**
+** 分享想法，用项目构筑梦想。**
 
 </div>
-
----
-
-## 📘 使用指南
-
-项导文档以**项目实践**为导向，系统整理了从开发准备到项目落地各阶段所需的知识与资源：
-
-- **学习笔记**：汇总环境配置、技术选型、架构设计等基础内容，助你快速上手。
-- **项目文档**：涵盖项目规范、知识产权申请与真实项目展示，欢迎参与共建。
-- **CS-DIY**：提供各计算机方向的学习路线与优质资源，适合自学规划。
-- **公共服务**：介绍为校内同学搭建的 Overleaf、GitLab 等实用平台及运维指南。
-- **大学百科**：收录校园生活、竞赛、证书等通识内容，帮你更高效地规划时间。
 
 ---
 
 ## ✨ 板块介绍
 
 ### 📖 学习笔记  
-> 📌 内容整理中，持续更新  
+
 汇集各技术领域的实战笔记，涵盖系统配置、前后端开发、嵌入式、图形学等方向。愿这些经验帮你少走弯路。
 
 ### 🧩 项目文档  
-> 📌 内容整理中，持续更新  
+
 这里不仅提供项目开发的标准化流程，也展示工作室的原创项目。我们鼓励跨学科协作，如果你有好的 idea，欢迎加入讨论与共建。  
-> 🔒 注：部分项目涉及商业或敏感数据，代码暂未公开，感谢理解。
+> 🔒 注：部分项目涉及商业或敏感数据，代码不公开，感谢理解。
 
 ### 🧭 CS-DIY  
-> 📌 内容整理中，持续更新  
+
 专为自学设计的导航站，整合优质课程、开源项目与学习路径，帮你系统构建知识体系。
 
 ### 🌐 公共服务  
 我们为重庆医科大学搭建了一系列校内服务（如 Overleaf、镜像站、GitLab），并附详细部署文档。也希望通过这些平台结识更多校内技术爱好者，共同优化使用体验。
 
 ### 🏫 大学百科  
-> 📌 内容整理中，持续更新  
+
 学习之外，生活亦然。这里分享校园资源利用、竞赛指南、技能认证等实用内容，希望帮你更好地平衡学习与生活。
 
 ---
 
 ## 🤝 参与贡献  
+
 文档难免有疏漏，如果你发现错误或有改进建议，欢迎在 [Issues](https://github.com/PGuideDev/PGuide-Docs/issues) 中提出；若你愿意分享自己的学习笔记或项目经验，也欢迎 [Fork](https://github.com/PGuideDev/PGuide-Docs/fork) 后提交 Pull Request。  
 如有合作意向，欢迎邮件联系：contact@pguide.dev。
 
@@ -95,10 +82,9 @@
 本项目由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 提供 CDN 加速与安全防护支持。  
 若访问主站较慢，可尝试以下镜像：
 
-- 项导云原生: https://docs.pguide.cloud  
 - Vercel（香港节点）: https://docs.pguide.com.cn  
 - Netlify: https://pguide-docs.netlify.app  
 - Cloudflare: https://pguide-docs.pages.dev
 
 ---
-**我们相信：开源与共享，让每一个想法都有成真的可能。**
+** 我们相信：开源与共享，让每一个想法都有成真的可能。**
